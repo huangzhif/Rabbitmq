@@ -1,0 +1,2 @@
+username = 'guest'
+pwd = 'guest'
